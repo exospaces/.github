@@ -1,9 +1,9 @@
 Welcome to DroidsX!
 
 # Who we are
-The robot revolution already happened but everyone but software engineers got left out. The 100 million cloud robots in data centers are inaccessible so most of humanity can't scale their ideas. It's time for that to change. 
+The robot revolution already happened but only software engineers participated. The 100 million cloud robots in data centers are inaccessible to most of humanity. That's a scale superpwoer we want to unlock for everybody. We invite you to build show and tell robots with us so - that the rest of humanity can be exponential. 
 
-We invite you to build show and tell robots for every*body* with us so that anyone can be exponential. Droids should be owned and maintained with the community not monopolized by giant corporations. iRobot and Skynet are real dangers. No amount of siloed brilliance will avoid unintended consquences. We need anti-fragile ecosystems and that means build together with the community. Providing a shared base of fail-safes, collision avoidance, machine learning, etc.
+Not only is it the right thing to do, but it is the safe thing to do. Droids should be owned and maintained with the community not monopolized by giant corporations. iRobot and Skynet are real dangers. No amount of siloed brilliance will avoid unintended consquences. We need anti-fragile ecosystems and that means building together as a community. We are smarter together with diverse ideas and modes of thinking providing a shared base of fail-safes, collision avoidance, machine learning, etc.
 
 # What you can do
 The projects in this repository will let you use your phone or XR device to teleoperate any robot. Coming xmas 2024 you will be able to show a robot how to do things like fold a t-shirt and then activate it with voice commands or Apple shortcuts.
